@@ -1,0 +1,6 @@
+Ingest run 2026-07-06T22:11:13+00:00
+  universe: 236
+  refreshed: 236
+  stale-kept (failed today, kept previous row): 0 []
+  dropped (failed, no previous row): 0 []
+  snapshot rows: 236 -> C:\Users\Malte\.claude\projects\eu-options-screener\data\screener_latest.parquet

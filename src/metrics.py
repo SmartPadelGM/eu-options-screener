@@ -131,6 +131,11 @@ def add_computed_fields(df: pd.DataFrame) -> pd.DataFrame:
     df["dollar_volume_eur"] = df["dollar_volume"] * fx
     df["market_cap_eur"] = df["market_cap"] * fx
 
+    # "Volume x level" is meaningless money for indices and would dominate the
+    # liquidity sort; size metrics apply to stocks only.
+    idx = df["is_index"].fillna(False).astype(bool)
+    df.loc[idx, ["dollar_volume", "dollar_volume_eur", "market_cap_eur"]] = None
+
     df["pct_from_52w_high"] = (df["price"] / df["week52_high"] - 1.0) * 100.0
     df["pct_from_52w_low"] = (df["price"] / df["week52_low"] - 1.0) * 100.0
 

@@ -77,10 +77,9 @@ st.sidebar.checkbox(
 
 
 def num_input(container, label, key, **kw):
-    # value comes from session state (seeded from DEFAULTS / preset callback);
-    # None renders as an empty input meaning "filter off".
-    container.number_input(label, key=key, value=st.session_state[key],
-                           placeholder="off", **kw)
+    # value comes from session state only (seeded from DEFAULTS / preset
+    # callback); a None session value renders as an empty input = filter off.
+    container.number_input(label, key=key, placeholder="off", **kw)
 
 
 with st.sidebar.expander("Liquidity", expanded=True):
@@ -251,7 +250,7 @@ st.dataframe(
     view[list(display_cols)],
     column_config=display_cols,
     hide_index=True,
-    use_container_width=True,
+    width="stretch",
     height=650,
 )
 
