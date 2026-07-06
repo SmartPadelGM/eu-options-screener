@@ -1,0 +1,237 @@
+ticker,name,country,exchange_suffix,degiro_venue,index_membership,is_index
+A2A.MI,A2A,Italy,.MI,IDEM,FTSE MIB,False
+ABB.ST,ABB Ltd,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ABBN.SW,ABB Ltd,Switzerland,.SW,Eurex,SMI,False
+ABI.BR,Anheuser-Busch InBev,Belgium,.BR,Euronext,EURO STOXX 50,False
+ABN.AS,ABN AMRO,Netherlands,.AS,Euronext,AEX,False
+AC.PA,Accor,France,.PA,Euronext,CAC 40,False
+ACA.PA,Crédit Agricole,France,.PA,Euronext,CAC 40,False
+ACS.MC,ACS,Spain,.MC,MEFF,IBEX 35,False
+ACX.MC,Acerinox,Spain,.MC,MEFF,IBEX 35,False
+AD.AS,Ahold Delhaize,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+ADDT-B.ST,Addtech B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ADS.DE,Adidas,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+ADYEN.AS,Adyen,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+AENA.MC,AENA,Spain,.MC,MEFF,IBEX 35,False
+AGN.AS,Aegon,Netherlands,.AS,Euronext,AEX,False
+AI.PA,Air Liquide,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+AIR.PA,Airbus,France,.PA,Euronext,"EURO STOXX 50, CAC 40, DAX",False
+AKZA.AS,AkzoNobel,Netherlands,.AS,Euronext,AEX,False
+ALC.SW,Alcon Inc,Switzerland,.SW,Eurex,SMI,False
+ALFA.ST,Alfa Laval,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ALV.DE,Allianz,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+AMP.MI,Amplifon,Italy,.MI,IDEM,FTSE MIB,False
+AMRZ.SW,Amrize AG,Switzerland,.SW,Eurex,SMI,False
+AMS.MC,Amadeus IT Group,Spain,.MC,MEFF,IBEX 35,False
+ANA.MC,Acciona,Spain,.MC,MEFF,IBEX 35,False
+ANE.MC,Acciona Energía,Spain,.MC,MEFF,IBEX 35,False
+ARGX.BR,Argenx,Belgium,.BR,Euronext,EURO STOXX 50,False
+ASM.AS,ASM International,Netherlands,.AS,Euronext,AEX,False
+ASML.AS,ASML Holding,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+ASRNL.AS,ASR Nederland,Netherlands,.AS,Euronext,AEX,False
+ASSA-B.ST,Assa Abloy B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ATCO-A.ST,Atlas Copco A,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+AVIO.MI,Avio,Italy,.MI,IDEM,FTSE MIB,False
+AZM.MI,Azimut,Italy,.MI,IDEM,FTSE MIB,False
+AZN.ST,AstraZeneca,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+BAMI.MI,Banco BPM,Italy,.MI,IDEM,FTSE MIB,False
+BAS.DE,BASF,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+BAYN.DE,Bayer,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+BBVA.MC,BBVA,Spain,.MC,MEFF,"EURO STOXX 50, IBEX 35",False
+BC.MI,Brunello Cucinelli,Italy,.MI,IDEM,FTSE MIB,False
+BEI.DE,Beiersdorf,Germany,.DE,Eurex,DAX,False
+BESI.AS,BE Semiconductors,Netherlands,.AS,Euronext,AEX,False
+BKT.MC,Bankinter,Spain,.MC,MEFF,IBEX 35,False
+BMED.MI,Banca Mediolanum,Italy,.MI,IDEM,FTSE MIB,False
+BMPS.MI,Banca Monte dei Paschi di Siena,Italy,.MI,IDEM,FTSE MIB,False
+BMW.DE,BMW,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+BN.PA,Danone,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+BNP.PA,BNP Paribas,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+BNR.DE,Brenntag,Germany,.DE,Eurex,DAX,False
+BOL.ST,Boliden,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+BPE.MI,BPER Banca,Italy,.MI,IDEM,FTSE MIB,False
+BVI.PA,Bureau Veritas,France,.PA,Euronext,CAC 40,False
+BZU.MI,Buzzi,Italy,.MI,IDEM,FTSE MIB,False
+CA.PA,Carrefour,France,.PA,Euronext,CAC 40,False
+CABK.MC,CaixaBank,Spain,.MC,MEFF,IBEX 35,False
+CAP.PA,Capgemini,France,.PA,Euronext,CAC 40,False
+CBK.DE,Commerzbank,Germany,.DE,Eurex,DAX,False
+CFR.SW,Compagnie Financière Richemont SA,Switzerland,.SW,Eurex,SMI,False
+CLNX.MC,Cellnex Telecom,Spain,.MC,MEFF,IBEX 35,False
+COL.MC,Inmobiliaria Colonial,Spain,.MC,MEFF,IBEX 35,False
+CON.DE,Continental,Germany,.DE,Eurex,DAX,False
+CPR.MI,Campari,Italy,.MI,IDEM,FTSE MIB,False
+CS.PA,Axa,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+DB1.DE,Deutsche Börse,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+DBK.DE,Deutsche Bank,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+DG.PA,Vinci SA,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+DHL.DE,Deutsche Post,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+DIA.MI,Diasorin,Italy,.MI,IDEM,FTSE MIB,False
+DSFIR.AS,DSM Firmenich AG,Netherlands,.AS,Euronext,AEX,False
+DSY.PA,Dassault Systèmes,France,.PA,Euronext,CAC 40,False
+DTE.DE,Deutsche Telekom,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+DTG.DE,Daimler Truck,Germany,.DE,Eurex,DAX,False
+EDEN.PA,Edenred,France,.PA,Euronext,CAC 40,False
+EL.PA,EssilorLuxottica,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+ELE.MC,Endesa,Spain,.MC,MEFF,IBEX 35,False
+EN.PA,Bouygues,France,.PA,Euronext,CAC 40,False
+ENEL.MI,Enel,Italy,.MI,IDEM,"EURO STOXX 50, FTSE MIB",False
+ENG.MC,Enagás,Spain,.MC,MEFF,IBEX 35,False
+ENGI.PA,Engie,France,.PA,Euronext,CAC 40,False
+ENI.MI,Eni,Italy,.MI,IDEM,"EURO STOXX 50, FTSE MIB",False
+ENR.DE,Siemens Energy,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+EOAN.DE,E.ON,Germany,.DE,Eurex,DAX,False
+EPI-A.ST,Epiroc A,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+EQT.ST,EQT,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ERF.PA,Eurofins Scientific,France,.PA,Euronext,CAC 40,False
+ERIC-B.ST,Ericsson B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+ESSITY-B.ST,Essity B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+EVO.ST,Evolution,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+EXO.AS,Exor,Netherlands,.AS,Euronext,AEX,False
+FBK.MI,FinecoBank,Italy,.MI,IDEM,FTSE MIB,False
+FCT.MI,Fincantieri,Italy,.MI,IDEM,FTSE MIB,False
+FDR.MC,Fluidra,Spain,.MC,MEFF,IBEX 35,False
+FER.MC,Ferrovial,Spain,.MC,MEFF,IBEX 35,False
+FME.DE,Fresenius Medical Care,Germany,.DE,Eurex,DAX,False
+FRE.DE,Fresenius,Germany,.DE,Eurex,DAX,False
+G.MI,Generali,Italy,.MI,IDEM,FTSE MIB,False
+G1A.DE,GEA Group,Germany,.DE,Eurex,DAX,False
+G24.DE,Scout24,Germany,.DE,Eurex,DAX,False
+GEBN.SW,Geberit AG,Switzerland,.SW,Eurex,SMI,False
+GIVN.SW,Givaudan SA,Switzerland,.SW,Eurex,SMI,False
+GLE.PA,Société Générale,France,.PA,Euronext,CAC 40,False
+GRF.MC,Grifols,Spain,.MC,MEFF,IBEX 35,False
+HEI.DE,Heidelberg Materials,Germany,.DE,Eurex,DAX,False
+HEIA.AS,Heineken,Netherlands,.AS,Euronext,AEX,False
+HEN3.DE,Henkel,Germany,.DE,Eurex,DAX,False
+HER.MI,Hera,Italy,.MI,IDEM,FTSE MIB,False
+HEXA-B.ST,Hexagon B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+HM-B.ST,Hennes & Mauritz B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+HNR1.DE,Hannover Re,Germany,.DE,Eurex,DAX,False
+HO.PA,Thales,France,.PA,Euronext,CAC 40,False
+HOLN.SW,Holcim Limited,Switzerland,.SW,Eurex,SMI,False
+IAG.MC,International Airlines Group,Spain,.MC,MEFF,IBEX 35,False
+IBE.MC,Iberdrola,Spain,.MC,MEFF,"EURO STOXX 50, IBEX 35",False
+IDR.MC,Indra,Spain,.MC,MEFF,IBEX 35,False
+IFX.DE,Infineon Technologies,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+IG.MI,Italgas,Italy,.MI,IDEM,FTSE MIB,False
+IMCD.AS,IMCD,Netherlands,.AS,Euronext,AEX,False
+INDU-C.ST,Industrivärden C,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+INGA.AS,ING Group,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+INVE-B.ST,Investor B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+INW.MI,INWIT,Italy,.MI,IDEM,FTSE MIB,False
+ISP.MI,Intesa Sanpaolo,Italy,.MI,IDEM,"EURO STOXX 50, FTSE MIB",False
+ITX.MC,Inditex,Spain,.MC,MEFF,"EURO STOXX 50, IBEX 35",False
+IVG.MI,Iveco,Italy,.MI,IDEM,FTSE MIB,False
+KER.PA,Kering,France,.PA,Euronext,CAC 40,False
+KNIN.SW,Kuehne + Nagel,Switzerland,.SW,Eurex,SMI,False
+KPN.AS,KPN,Netherlands,.AS,Euronext,AEX,False
+LDO.MI,Leonardo,Italy,.MI,IDEM,FTSE MIB,False
+LIFCO-B.ST,Lifco B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+LOG.MC,Logista,Spain,.MC,MEFF,IBEX 35,False
+LOGN.SW,Logitech International SA,Switzerland,.SW,Eurex,SMI,False
+LONN.SW,Lonza Group AG,Switzerland,.SW,Eurex,SMI,False
+LR.PA,Legrand,France,.PA,Euronext,CAC 40,False
+LTMC.MI,Lottomatica Group,Italy,.MI,IDEM,FTSE MIB,False
+MAP.MC,Mapfre,Spain,.MC,MEFF,IBEX 35,False
+MB.MI,Mediobanca,Italy,.MI,IDEM,FTSE MIB,False
+MBG.DE,Mercedes-Benz Group,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+MC.PA,LVMH Moët Hennessy Louis Vuitton,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+ML.PA,Michelin,France,.PA,Euronext,CAC 40,False
+MONC.MI,Moncler,Italy,.MI,IDEM,FTSE MIB,False
+MRK.DE,Merck,Germany,.DE,Eurex,DAX,False
+MRL.MC,Merlin Properties,Spain,.MC,MEFF,IBEX 35,False
+MT.AS,ArcelorMittal,Netherlands,.AS,Euronext,"AEX, CAC 40",False
+MTS.MC,ArcelorMittal,Spain,.MC,MEFF,IBEX 35,False
+MTX.DE,MTU Aero Engines,Germany,.DE,Eurex,DAX,False
+MUV2.DE,Munich Re,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+NDA-FI.HE,Nordea,Finland,.HE,Eurex,EURO STOXX 50,False
+NDA-SE.ST,Nordea Bank Abp,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+NESN.SW,Nestlé SA,Switzerland,.SW,Eurex,SMI,False
+NEXI.MI,Nexi,Italy,.MI,IDEM,FTSE MIB,False
+NIBE-B.ST,Nibe Industrier B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+NN.AS,NN Group,Netherlands,.AS,Euronext,AEX,False
+NOVN.SW,Novartis International AG,Switzerland,.SW,Eurex,SMI,False
+NTGY.MC,Naturgy,Spain,.MC,MEFF,IBEX 35,False
+OR.PA,L'Oréal,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+ORA.PA,Orange,France,.PA,Euronext,CAC 40,False
+PAH3.DE,Porsche SE,Germany,.DE,Eurex,DAX,False
+PGHN.SW,Partners Group Holding AG,Switzerland,.SW,Eurex,SMI,False
+PHIA.AS,Philips,Netherlands,.AS,Euronext,AEX,False
+PRX.AS,Prosus,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+PRY.MI,Prysmian,Italy,.MI,IDEM,FTSE MIB,False
+PST.MI,Poste italiane,Italy,.MI,IDEM,FTSE MIB,False
+PUB.PA,Publicis,France,.PA,Euronext,CAC 40,False
+PUIG.MC,Puig,Spain,.MC,MEFF,IBEX 35,False
+QIA.DE,Qiagen,Germany,.DE,Eurex,DAX,False
+RACE.MI,Ferrari,Italy,.MI,IDEM,"EURO STOXX 50, FTSE MIB",False
+RAND.AS,Randstad,Netherlands,.AS,Euronext,AEX,False
+REC.MI,Recordati,Italy,.MI,IDEM,FTSE MIB,False
+RED.MC,Redeia Corporación,Spain,.MC,MEFF,IBEX 35,False
+REN.AS,RELX,Netherlands,.AS,Euronext,AEX,False
+REP.MC,Repsol,Spain,.MC,MEFF,IBEX 35,False
+RHM.DE,Rheinmetall,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+RI.PA,Pernod Ricard,France,.PA,Euronext,CAC 40,False
+RMS.PA,Hermès,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+RNO.PA,Renault,France,.PA,Euronext,CAC 40,False
+ROP.SW,Roche Holding AG,Switzerland,.SW,Eurex,SMI,False
+ROVI.MC,Laboratorios Rovi,Spain,.MC,MEFF,IBEX 35,False
+RWE.DE,RWE,Germany,.DE,Eurex,DAX,False
+SAAB-B.ST,Saab B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SAB.MC,Banco Sabadell,Spain,.MC,MEFF,IBEX 35,False
+SAF.PA,Safran,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+SAN.MC,Banco Santander,Spain,.MC,MEFF,"EURO STOXX 50, IBEX 35",False
+SAN.PA,Sanofi,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+SAND.ST,Sandvik,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SAP.DE,SAP,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+SCA-B.ST,SCA B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SCMN.SW,Swisscom AG,Switzerland,.SW,Eurex,SMI,False
+SCYR.MC,Sacyr,Spain,.MC,MEFF,IBEX 35,False
+SEB-A.ST,SEB A,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SGO.PA,Saint-Gobain,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+SHB-A.ST,Handelsbanken A,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SHELL.AS,Shell plc,Netherlands,.AS,Euronext,AEX,False
+SHL.DE,Siemens Healthineers,Germany,.DE,Eurex,DAX,False
+SIE.DE,Siemens,Germany,.DE,Eurex,"EURO STOXX 50, DAX",False
+SIKA.SW,Sika AG,Switzerland,.SW,Eurex,SMI,False
+SKA-B.ST,Skanska B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SKF-B.ST,SKF B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SLHN.SW,Swiss Life Holding AG,Switzerland,.SW,Eurex,SMI,False
+SLR.MC,Solaria,Spain,.MC,MEFF,IBEX 35,False
+SPM.MI,Saipem,Italy,.MI,IDEM,FTSE MIB,False
+SREN.SW,Swiss Reinsurance Company Ltd,Switzerland,.SW,Eurex,SMI,False
+SRG.MI,Snam,Italy,.MI,IDEM,FTSE MIB,False
+STLAM.MI,Stellantis,Italy,.MI,IDEM,FTSE MIB,False
+STLAP.PA,Stellantis,France,.PA,Euronext,CAC 40,False
+STMMI.MI,STMicroelectronics,Italy,.MI,IDEM,FTSE MIB,False
+STMPA.PA,STMicroelectronics,France,.PA,Euronext,CAC 40,False
+SU.PA,Schneider Electric,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+SWED-A.ST,Swedbank A,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+SY1.DE,Symrise,Germany,.DE,Eurex,DAX,False
+TEF.MC,Telefónica,Spain,.MC,MEFF,IBEX 35,False
+TEL2-B.ST,Tele2 B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+TELIA.ST,Telia Company,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+TEN.MI,Tenaris,Italy,.MI,IDEM,FTSE MIB,False
+TEP.PA,Teleperformance,France,.PA,Euronext,CAC 40,False
+TIT.MI,Telecom Italia,Italy,.MI,IDEM,FTSE MIB,False
+TRN.MI,Terna,Italy,.MI,IDEM,FTSE MIB,False
+TTE.PA,TotalEnergies,France,.PA,Euronext,"EURO STOXX 50, CAC 40",False
+UBSG.SW,UBS Group AG,Switzerland,.SW,Eurex,SMI,False
+UCG.MI,UniCredit,Italy,.MI,IDEM,"EURO STOXX 50, FTSE MIB",False
+UMG.AS,Universal Music Group,Netherlands,.AS,Euronext,AEX,False
+UNA.AS,Unilever,Netherlands,.AS,Euronext,AEX,False
+UNI.MC,Unicaja,Spain,.MC,MEFF,IBEX 35,False
+UNI.MI,Unipol,Italy,.MI,IDEM,FTSE MIB,False
+URW.PA,Unibail-Rodamco-Westfield,France,.PA,Euronext,CAC 40,False
+VIE.PA,Veolia,France,.PA,Euronext,CAC 40,False
+VNA.DE,Vonovia,Germany,.DE,Eurex,DAX,False
+VOLV-B.ST,Volvo B,Sweden,.ST,Eurex / Nasdaq Nordic,OMX Stockholm 30,False
+VOW.DE,Volkswagen Group,Germany,.DE,Eurex,EURO STOXX 50,False
+VOW3.DE,Volkswagen Group,Germany,.DE,Eurex,DAX,False
+WKL.AS,Wolters Kluwer,Netherlands,.AS,Euronext,"EURO STOXX 50, AEX",False
+ZAL.DE,Zalando,Germany,.DE,Eurex,DAX,False
+ZURN.SW,Zurich Insurance Group AG,Switzerland,.SW,Eurex,SMI,False
+^AEX,AEX Index,Netherlands,,Euronext Amsterdam,,True
+^FCHI,CAC 40 Index,France,,Euronext Paris,,True
+^GDAXI,DAX Index,Germany,,Eurex,,True
+^STOXX50E,EURO STOXX 50 Index,Europe,,Eurex,,True

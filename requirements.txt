@@ -1,0 +1,6 @@
+yfinance>=0.2.65
+curl_cffi>=0.10
+pandas>=2.1
+pyarrow>=15.0
+streamlit>=1.37
+lxml>=5.0

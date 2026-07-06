@@ -1,0 +1,23 @@
+Universe build started 2026-07-06T22:06:16+00:00
+[EURO STOXX 50] table with 50 rows; ticker col='Ticker', name col='Name', exchange col='Main listing'
+[AEX] table with 25 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[CAC 40] table with 40 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[DAX] table with 40 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[IBEX 35] table with 35 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[FTSE MIB] table with 40 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[OMX Stockholm 30] table with 30 rows; ticker col='Ticker', name col='Company', exchange col='None'
+[SMI] table with 21 rows; ticker col='Ticker', name col='Name', exchange col='None'
+  WARN [SMI] unmappable ticker cell: '' (exchange text '')
+Scraped 280 rows -> 232 unique tickers before validation
+  validated 25/232
+  validated 50/232
+  validated 75/232
+  validated 100/232
+  validated 125/232
+  validated 150/232
+  validated 175/232
+  validated 200/232
+  validated 225/232
+Validation: kept 232, dropped 0 []
+Wrote C:\Users\Malte\.claude\projects\eu-options-screener\data\universe.csv: 232 stocks + 4 index rows
+All 33 anchor tickers present
