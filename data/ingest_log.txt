@@ -1,4 +1,4 @@
-Ingest run 2026-07-17T18:08:52+00:00
+Ingest run 2026-07-20T18:55:28+00:00
   universe: 236
   refreshed: 236
   stale-kept (failed today, kept previous row): 0 []
