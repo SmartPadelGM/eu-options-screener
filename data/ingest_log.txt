@@ -1,6 +1,6 @@
-Ingest run 2026-09-08T19:46:22+00:00
+Ingest run 2026-09-09T19:38:02+00:00
   universe: 236
-  refreshed: 236
-  stale-kept (failed today, kept previous row): 0 []
+  refreshed: 234
+  stale-kept (failed today, kept previous row): 2 ['ANA.MC', 'GLE.PA']
   dropped (failed, no previous row): 0 []
   snapshot rows: 236 -> /home/runner/work/eu-options-screener/eu-options-screener/data/screener_latest.parquet
